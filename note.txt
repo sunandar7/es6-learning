@@ -1,0 +1,21 @@
+control flow => control the flow of code based on condition.
+control flow => conditional statement, switch statement, loop.
+conditional statement => if, else if, else.
+switch statement => switch()
+loop => for loop, while loop, do...while loop.
+
+error handling => handling the exception error without stopping the code execution.
+throw => if the exception error occurred, throw this exception.
+The throw statement allows you to create custom errors and throw them when a particular condition is met or when an error condition occurs.
+try...catch => The try block contains the code that may potentially throw an error.
+If an error occurs within the try block, control is transferred to the catch block, where you can handle the error.
+The error parameter in the catch block contains information about the error that occurred.
+
+for of and for in => 
+for of loop iterates over the values of an iterable object, such as an array or string.
+for in loop => for in loop iterates over the enumerable properties of an object.
+
+loop and iteration =>loop - execute a block of code repeatedly until a specified condition is met.
+iteration - refers to each execution of the loop's body.
+
+Error handling in JavaScript ES6 involves the process of detecting, responding to, and managing errors that occur during the execution of a JavaScript program. It ensures that your code can gracefully handle unexpected situations and failures, preventing the program from crashing and providing a better user experience.
